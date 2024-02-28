@@ -3,7 +3,7 @@ import Contact from "./Pages/Contact";
 import Home from "./Pages/Home";
 import Blog from "./Pages/Blog";
 import Navbar from "./Pages/Navbar";
-import "/.App.css";
+import "./App.css";
 import React,{useState} from "react";
 
 import { Routes, Route } from "react-router-dom";
